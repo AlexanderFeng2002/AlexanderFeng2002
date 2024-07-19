@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderFeng2002
 - 👀 I’m interested in soccer
-- 🌱 I’m currently learning MATLAB, python, machine learning.
+- 🌱 I’m currently learning Physics, Deep learning, generative agents.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my google email is alexnaderfeng2002@gmail.com   My university email is purdue421@purdue.edu
 
