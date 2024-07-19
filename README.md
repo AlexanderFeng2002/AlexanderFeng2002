@@ -2,7 +2,7 @@
 - 👀 I’m interested in soccer
 - 🌱 I’m currently learning MATLAB, python, machine learning.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my google email is alexnaderfeng2002@gmail.com   My university email is el21j2f@leeds.ac.uk
+- 📫 How to reach me my google email is alexnaderfeng2002@gmail.com   My university email is purdue421@purdue.edu
 
 <!---
 AlexanderFeng2002/AlexanderFeng2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
